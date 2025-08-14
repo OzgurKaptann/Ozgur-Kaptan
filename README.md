@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Data+Analyst+from+T%C3%BCrkiye+%F0%9F%93%8A;SQL+%E2%80%A2+BigQuery+%E2%80%A2+Tableau+%E2%80%A2+Python;A%2FB+Testing+%E2%80%A2+GA4+%E2%80%A2+Amplitude;Building+SpiritMatrix+v1.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Data+Analyst+from+T%C3%BCrkiye+%F0%9F%93%8A;SQL+%E2%80%A2+BigQuery+%E2%80%A2+Tableau+%E2%80%A2+Python;A%2FB+Testing+%E2%80%A2+GA4+%E2%80%A2+Amplitude" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -40,8 +40,6 @@ Veriyi iş değeri olan **net içgörülere** dönüştüren bir **Data Analyst*
 - **Python (pandas, NumPy, Matplotlib, Seaborn)** ile veri temizleme, otomasyon ve görselleştirme.  
 - **Amplitude** ve olay şemalarıyla kullanıcı davranışını izlenebilir & aksiyona dönüştürülebilir hale getirme.  
 - **SQL (BigQuery, PostgreSQL, MySQL, SQLite)** ile performanslı sorgular ve tekrar üretilebilir analizler.
-
-Şu an **SpiritMatrix v1.0** üzerinde çalışıyorum: numeroloji/astrolojiyi veri analitiğiyle birleştiren, **Python/Flask** tabanlı deneysel bir içgörü motoru.
 
 ## 🌐 Sosyaller
 
