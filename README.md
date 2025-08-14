@@ -1,77 +1,102 @@
-<!-- Başlık + Yazı animasyonu -->
-<h1 align="center">Merhaba, ben Özgür 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL%2C+BigQuery%2C+Tableau%2C+Python;A%2FB+testleri%2C+GA4%2C+e-ticaret+analiti%C4%9Fi;SpiritMatrix+v1.0+%E2%80%94+spirit%C3%BCel+%2B+veri+uygulamalar%C4%B1" alt="typing" />
-</p>
-
-<!-- Sosyal rozetler -->
 <p align="center">
   <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/">
-    <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white">
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://ozgur.dev">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-111111?logo=vercel&logoColor=white">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_uEIAcTgpuOE2Xv5o_2XHBw73bUlJxvnQhcORE_fh5M" width="720" alt="Cover" />
   </a>
 </p>
 
----
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave">
+  Merhaba, ben Özgür
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave">
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Data+Analyst+from+T%C3%BCrkiye+%F0%9F%93%8A;SQL+%E2%80%A2+BigQuery+%E2%80%A2+Tableau+%E2%80%A2+Python;A%2FB+Testing+%E2%80%A2+GA4+%E2%80%A2+Amplitude;Building+SpiritMatrix+v1.0" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OzgurKaptann&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/OzgurKaptann">
+    <img src="https://github-trophies.vercel.app/?username=OzgurKaptann&theme=algolia&margin-w=18&title=Repositories,Commits,MultiLanguage,Followers&column=4" alt="trophies"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider">
+</div>
 
 ## 🚀 Hakkımda
-- Ürün & growth analitiği: **funnel, kohort, ARPPU, CAC**
-- **A/B testleri**: hipotez → tasarım → güç/lift hesapları → yorumlama
-- **GA4 → BigQuery** veri modelleme, **Tableau** ile hikâyeleştirme
-- Şu an: **SpiritMatrix v1.0** (numeroloji/astro + veri tabanlı içgörü)
 
-## 🧰 Teknoloji Yığını
-**Diller/DB:** SQL (BigQuery), Python (pandas, numpy), Google Sheets  
-**Analitik:** GA4, deney/segmentasyon, kohort & funnel analizi  
-**Görselleştirme:** Tableau, Matplotlib  
-**Web/Ops:** Flask (prototip), Git/GitHub, temiz/verimli iş akışları
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-## 📌 Öne Çıkan Projeler (pinlemen önerilir)
-- **ab-test-analyzer** — A/B testlerinde lift, güç ve görseller (Python)  
-  _Repo:_ `https://github.com/OzgurKaptan53/ab-test-analyzer` (oluştur)
-- **ga4-bigquery-pipeline** — GA4 → BigQuery ELT + dönüşüm modelleri (SQL+Py)  
-  _Repo:_ `https://github.com/OzgurKaptan53/ga4-bigquery-pipeline` (oluştur)
-- **spiritmatrix** — numeroloji/astro içgörü motoru (Flask prototip)  
-  _Repo:_ `https://github.com/OzgurKaptan53/spiritmatrix` (oluştur)
-- **ecom-tableau-dashboards** — funnel, retention, gelir panoları  
-  _Repo:_ `https://github.com/OzgurKaptan53/ecom-tableau-dashboards` (oluştur)
+Veriyi iş değeri olan **net içgörülere** dönüştüren bir **Data Analyst**’im. Ürün/growth sorularını metriklere çevirir, doğru deneyi tasarlar, sonucu görselleştirir ve ekiplerin karar alma hızını artırırım.
 
-> Not: Üstteki repoları oluşturduktan sonra profil sayfandan **Customize your pins** ile sabitle.
+- **Deney tasarımı & A/B testleri:** hipotez → örneklem planı → güç/lift hesapları → anlamlılık → segment yorumları.  
+- **Ürün & pazarlama analitiği:** funnel/kohort, **ARPPU, LTV, CAC**, abonelik ve fiyatlandırma analizleri.  
+- **GA4 → BigQuery** veri modeli ve **Tableau** panolarıyla uçtan uca raporlama.  
+- **Python (pandas, NumPy, Matplotlib, Seaborn)** ile veri temizleme, otomasyon ve görselleştirme.  
+- **Amplitude** ve olay şemalarıyla kullanıcı davranışını izlenebilir & aksiyona dönüştürülebilir hale getirme.  
+- **SQL (BigQuery, PostgreSQL, MySQL, SQLite)** ile performanslı sorgular ve tekrar üretilebilir analizler.
 
----
+Şu an **SpiritMatrix v1.0** üzerinde çalışıyorum: numeroloji/astrolojiyi veri analitiğiyle birleştiren, **Python/Flask** tabanlı deneysel bir içgörü motoru.
 
-## 📊 İstatistikler
+## 🌐 Sosyaller
+
+<div align="center">
+
+| LinkedIn | Kaggle | GitHub | E-posta | Portfolyo |
+|---|---|---|---|---|
+|<a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/></a>|<a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/></a>|<a href="https://github.com/OzgurKaptann" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/></a>|<a href="mailto:ozgrkptn@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="36" height="36" alt="Email"/></a>|<a href="https://ozgur.dev" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" width="36" height="36" alt="Portfolio"/></a>|
+
+</div>
+
+## 🧰 Data & Analytics Stack
+
+**Diller/DB:** Python • SQL (BigQuery, PostgreSQL, MySQL, SQLite)  
+**Analitik & Ürün:** A/B testleri • GA4 • Amplitude  
+**Görselleştirme:** Tableau • Matplotlib • Seaborn  
+**Bilimsel Python:** pandas • NumPy  
+**Web/Ops:** Flask • Git/GitHub • Google Sheets
+
 <p align="center">
-  <!-- GitHub Readme Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OzgurKaptan53&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKaptan53&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4E8CA1?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-FA7B17?style=flat&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Amplitude-005AF0?style=flat&logo=amplitude&logoColor=white" alt="Amplitude" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+</p>
+
+## 📌 Öne Çıkanlar
+- **ab-test-analyzer** — Lift, güç ve görselleştirme (Python)  
+- **ga4-bigquery-pipeline** — GA4 → BigQuery ELT + dönüşüm modelleri (SQL+Py)  
+- **spiritmatrix** — numeroloji/astro içgörü motoru (Flask)  
+- **ecom-tableau-dashboards** — funnel, retention ve gelir panoları  
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OzgurKaptann&show_icons=true&theme=transparent" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKaptann&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="top-langs"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=OzgurKaptan53&hide_border=true" />
+    <img height="180" src="https://streak-stats.demolab.com?user=OzgurKaptann&hide_border=true" alt="streak"/>
   </a>
 </p>
 
-<!--
-## 🐍 Snake (opsiyonel)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-    <img alt="github-snake" src="./dist/github-snake.svg" />
-  </picture>
-</p>
 
-
-## 🤝 İletişim
-**LinkedIn:** yukarıdaki rozet • **E-posta:** youremail@example.com
