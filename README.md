@@ -6,12 +6,12 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave">
-  Merhaba, ben Özgür Kaptan
+  Hi, I'm Özgür Kaptan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Data+Analyst+from+T%C3%BCrkiye+%F0%9F%93%8A;SQL+%E2%80%A2+BigQuery+%E2%80%A2+Tableau+%E2%80%A2+Python;A%2FB+Testing+%E2%80%A2+GA4+%E2%80%A2+Amplitude" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Data+Analyst+%F0%9F%93%8A;SQL+%E2%80%A2+BigQuery+%E2%80%A2+Tableau+%E2%80%A2+Python;A%2FB+Testing+%E2%80%A2+GA4+%E2%80%A2+Amplitude" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -28,36 +28,40 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider">
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
 <img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-Veriyi iş değeri olan **net içgörülere** dönüştüren bir **Data Analyst**’im. Ürün/growth sorularını metriklere çevirir, doğru deneyi tasarlar, sonucu görselleştirir ve ekiplerin karar alma hızını artırırım.
+I’m a **Data Analyst** passionate about transforming raw data into **business-ready insights** that drive product, marketing, and growth decisions. My expertise lies in connecting business questions to metrics, designing rigorous experiments, and building dashboards that enable faster, data-driven decision-making.
 
-- **Deney tasarımı & A/B testleri:** hipotez → örneklem planı → güç/lift hesapları → anlamlılık → segment yorumları.  
-- **Ürün & pazarlama analitiği:** funnel/kohort, **ARPPU, LTV, CAC**, abonelik ve fiyatlandırma analizleri.  
-- **GA4 → BigQuery** veri modeli ve **Tableau** panolarıyla uçtan uca raporlama.  
-- **Python (pandas, NumPy, Matplotlib, Seaborn)** ile veri temizleme, otomasyon ve görselleştirme.  
-- **Amplitude** ve olay şemalarıyla kullanıcı davranışını izlenebilir & aksiyona dönüştürülebilir hale getirme.  
-- **SQL (BigQuery, PostgreSQL, MySQL, SQLite)** ile performanslı sorgular ve tekrar üretilebilir analizler.
+- **Experiment Design & A/B Testing** — from hypothesis & sample size planning to lift/power analysis and statistical validation.  
+- **Product & Marketing Analytics** — funnels, cohorts, **ARPPU, LTV, CAC**, subscription & pricing optimization.  
+- **End-to-End Reporting** — **GA4 → BigQuery** pipelines with interactive **Tableau** dashboards.  
+- **Python (pandas, NumPy, Matplotlib, Seaborn)** — data cleaning, automation, and advanced visualizations.  
+- **Behavioral Analytics** — tracking event schemas with **Amplitude** to measure user journeys and impact.  
+- **SQL (BigQuery, PostgreSQL, MySQL, SQLite)** — high-performance queries and reproducible analysis workflows.  
 
-## 🌐 Sosyaller
+---
+
+## 🌐 Connect with Me
 
 <div align="center">
 
-| LinkedIn | Kaggle | GitHub | E-posta | Portfolyo |
+| LinkedIn | Kaggle | GitHub | Email | Portfolio |
 |---|---|---|---|---|
 |<a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/></a>|<a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/></a>|<a href="https://github.com/OzgurKaptann" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/></a>|<a href="mailto:ozgrkptn@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="36" height="36" alt="Email"/></a>|<a href="https://ozgur.dev" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" width="36" height="36" alt="Portfolio"/></a>|
 
 </div>
 
+---
+
 ## 🧰 Data & Analytics Stack
 
-**Diller/DB:** Python • SQL (BigQuery, PostgreSQL, MySQL, SQLite)  
-**Analitik & Ürün:** A/B testleri • GA4 • Amplitude  
-**Görselleştirme:** Tableau • Matplotlib • Seaborn  
-**Bilimsel Python:** pandas • NumPy  
-**Web/Ops:** Flask • Git/GitHub • Google Sheets
+**Languages & Databases:** Python • SQL (BigQuery, PostgreSQL, MySQL, SQLite)  
+**Analytics & Product:** A/B Testing • GA4 • Amplitude  
+**Visualization:** Tableau • Matplotlib • Seaborn  
+**Scientific Python:** pandas • NumPy  
+**Ops & Tools:** Flask • Git/GitHub • Google Sheets  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -78,11 +82,15 @@ Veriyi iş değeri olan **net içgörülere** dönüştüren bir **Data Analyst*
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>
 
-## 📌 Öne Çıkanlar
-- **ab-test-analyzer** — Lift, güç ve görselleştirme (Python)  
-- **ga4-bigquery-pipeline** — GA4 → BigQuery ELT + dönüşüm modelleri (SQL+Py)  
-- **spiritmatrix** — numeroloji/astro içgörü motoru (Flask)  
-- **ecom-tableau-dashboards** — funnel, retention ve gelir panoları  
+---
+
+## 📌 Featured Projects
+- **AB Test Analyzer** — Power & lift calculations with visualizations (Python)  
+- **GA4 → BigQuery Pipeline** — event-level ETL + conversion modeling (SQL + Python)  
+- **SpiritMatrix** — numerology & astrology insight engine (Flask)  
+- **E-commerce Dashboards** — funnel, retention, and revenue (Tableau)  
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -96,5 +104,6 @@ Veriyi iş değeri olan **net içgörülere** dönüştüren bir **Data Analyst*
     <img height="180" src="https://streak-stats.demolab.com?user=OzgurKaptann&hide_border=true" alt="streak"/>
   </a>
 </p>
+
 
 
